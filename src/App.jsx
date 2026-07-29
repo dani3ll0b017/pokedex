@@ -50,7 +50,7 @@ function App() {
        <h1 className="titulo">Pokédex</h1>
 
 <p className="subtitulo">
-  Explora los primeros 50 Pokémon utilizando React • Vite • PokéAPI
+  Explora los primeros 50 Pokémon
 </p>
         <SearchBar
           search={search}
